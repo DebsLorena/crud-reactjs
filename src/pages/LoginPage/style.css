@@ -1,0 +1,49 @@
+#login {
+    width: 60vw;
+    height: auto;
+    background: rgb(44, 44, 59);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 30px;
+    border-radius: 10px;
+    margin: 100px auto;
+}
+
+.form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.field {
+    padding: 20px;
+    width: 250px;
+    background-color: aliceblue;
+    color:rgb(6, 7, 24);
+    border: none;
+    margin: 10px 0 30px 0;
+    border-radius: 4px;
+}
+
+
+
+.actions button {
+    border-radius: 10px;
+    width: 250px;
+    background-color: aliceblue;
+    color:gray;
+    border: none;
+    padding: 5px 15px;
+    margin: 10px 0 30px 0;
+}
+
+    input {
+    text-decoration: none;
+    border: none;
+    width: 240px;
+    background-color: aliceblue;
+    color:rgb(6, 7, 24);
+}

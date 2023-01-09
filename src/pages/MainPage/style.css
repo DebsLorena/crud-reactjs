@@ -1,0 +1,53 @@
+.container .nav {
+    display: flex;
+    justify-content: space-between;
+    background: rgb(77, 77, 104);
+    padding: 0 30px;
+}
+
+.container .nav .logout {
+    cursor: pointer;
+}
+
+.container .nav .logout:hover {
+    color: rgb(44, 44, 59);
+}
+
+.container .search {
+    padding: 30px;
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    /* justify-content: space-between; */
+}
+
+.container .search input, .container .new input {
+    padding: 5px 20px;
+    border-radius: 4px;
+}
+
+.container .search button {
+    border-radius: 10px;
+    padding: 0 20px;
+    border: none;
+    color: gray;
+    background: white;
+}
+
+.container .search button:hover{
+    color:rgb(44, 44, 59);
+    background: gray;
+}
+
+.container .repositories {
+    padding:  0 30px;
+}
+
+.container .repositories .info {
+    padding-top: 30px;
+}
+
+.container .repositories button {
+    border: none;
+    border-radius: 10px;
+}
