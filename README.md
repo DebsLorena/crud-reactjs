@@ -5,6 +5,11 @@
 </div>
 <br>
 
+<div align="center">
+    <img src="./Print.PNG" alt="daily.dev" height="250">
+    <img src="./Print1.PNG" alt="daily.dev" height="250">
+</div>
+
 
 ## ✌️ Crud com login * Frontend
 <strong> Crud em ReactJs com MongoDB e Node: incluso rotas, context-api com autenticação de login e permanência com localStorage, props, search(perquisa) de repositórios apenas de usuários logados, ligação de api com axios, logout, css.
