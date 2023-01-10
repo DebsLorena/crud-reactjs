@@ -6,8 +6,9 @@
 <br>
 
 <div align="center">
+<img src="./print1.PNG" alt="daily.dev" height="250">
     <img src="./print.PNG" alt="daily.dev" height="250">
-    <img src="./print1.PNG" alt="daily.dev" height="250">
+    
 </div>
 
 
